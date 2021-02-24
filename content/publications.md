@@ -3,7 +3,7 @@ sort: 4
 ---
 # Publications
 
-## Books/Chapters
+## Books & Chapters
 
 - U. Nanda, D. P. Acharya, P.K. Rout, D. Nayak, B. Jena, "Performance-Linked Phased- Locked Loop Architectures: Recent Developments" in Advanced VLSI Design and Testability Issues, (**CRC Press**), pp. 271-285, 2020
 
